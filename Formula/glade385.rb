@@ -1,4 +1,4 @@
-class Glade < Formula
+class Glade385 < Formula
   desc "A RAD tool for the GTK+ and GNOME environment"
   homepage "https://glade.gnome.org/"
   url "https://download.gnome.org/sources/glade3/3.8/glade3-3.8.5.tar.xz"
